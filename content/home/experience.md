@@ -24,17 +24,13 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2019-06-01"
   date_end = "2019-10-01"
-  description = ""Assist the Materials Innovation team in reseraching materials that will reduce the overall impact of production"
+  description = """Assist the Materials Innovation team in reseraching materials that will reduce the overall impact of production"""
   Responsibilities include:
   
-  * Built a library of research on carbon sequestration potential of agricultural products within Patagonia’s
-supply chain which was used by management and marketing to guide their regenerative organic program.
-  * Calculated the carbon footprint of Patagonia’s surfboard production using the Higg Index to conclude that
-surfboards are a diminutive portion of Patagonia’s total greenhouse gas emissions.
-  * Created a model in R to predict materials’ water repellency after applying different PFC-free chemistries.
-  * Determined the social, environmental, and technical impacts of different plastics, chemistries, and bio
-products utilized by materials designers to empower designers to reduce material and social impact.
-  """
+  * """Built a library of research on carbon sequestration potential of agricultural products within Patagonia’s supply chain which was used by management and marketing to guide their regenerative organic program."""
+  * """Calculated the carbon footprint of Patagonia’s surfboard production using the Higg Index to conclude that surfboards are a diminutive portion of Patagonia’s total greenhouse gas emissions."""
+  * """Created a model in R to predict materials’ water repellency after applying different PFC-free chemistries."""
+  * """Determined the social, environmental, and technical impacts of different plastics, chemistries, and bio products utilized by materials designers to empower designers to reduce material and social impact."""
 
 
 
